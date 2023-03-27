@@ -4,6 +4,7 @@ CourseManager-Angular
 </h1
 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 15.2.4. Através dele são listados alguns cursos com preço, data de lançamento, avaliação e campo de fitragem dinâmica.   
+Nele são aplicados conceitos de módulos, componentes, eventos data binding e injeção de dependência.
 
 ![lista de cursos](src/assets/images/course-list.jpg)
 
