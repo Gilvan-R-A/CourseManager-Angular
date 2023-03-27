@@ -1,4 +1,7 @@
-# CourseManager-Angular
+<div class = "container">
+<h1 align="center">
+CourseManager-Angular
+</h1
 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 15.2.4. Através dele são listados alguns cursos com preço, data de lançamento, avaliação e campo de fitragem dinâmica.   
 
