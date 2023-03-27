@@ -1,6 +1,8 @@
 # CourseManager
 
-Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 15.2.4.
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 15.2.4.   
+
+![lista de cursos](./course-manager/src/assets/images/course-list.jpg)
 
 ## Servidor de desenvolvimento
 
