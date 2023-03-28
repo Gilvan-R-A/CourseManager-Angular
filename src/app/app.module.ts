@@ -4,15 +4,18 @@ import { CourseListComponent } from './courses/course-list.components';
 import { AppComponent } from './app.component';
 import { FormsModule } from '@angular/forms';
 import { StarComponent } from './star/star.component';
+import { ReplacePipe } from './pipe/replice.pipe';
 
 @NgModule({
   declarations: [
     AppComponent,
     CourseListComponent,
-    StarComponent
+    StarComponent,
+    ReplacePipe
   ],
   imports: [
-    BrowserModule,
+
+  BrowserModule,
     FormsModule
   ],
   providers: [],
